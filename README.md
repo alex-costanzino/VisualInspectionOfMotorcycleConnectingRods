@@ -1,5 +1,6 @@
 # Visual inspection of motorcycle connecting rods
-The repository contains the project realized for the Image Processing and Computer Vision project course of the Master's degree in Artificial Intelligence, at Alma Mater Studiorum, University of Bologna.
+The repository contains the project realized for the Image Processing and Computer Vision project project work of the Master's degree in Artificial Intelligence, at Alma Mater Studiorum, University of Bologna.
+
 The projects is realized by me.
 
 ## Contents
