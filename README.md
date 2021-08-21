@@ -4,7 +4,7 @@ The repository contains the project realized for the Image Processing and Comput
 The projects is realized by me.
 
 ## Contents
-* `01_dimension_check.py` and `02_reordering_dataset.py` are just auxiliary tools to pre-process the dataset;
+* `visual-inspection_rods.ipynb` contains the main notebook;
 * `report.pdf` is the report file.
 
 ## Main libraries
