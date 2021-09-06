@@ -6,6 +6,7 @@ The projects is realized by me.
 ## Contents
 * `visual-inspection_rods.ipynb` contains the main notebook;
 * `report.pdf` is the report file.
+* `presentation.pptx` is the presentation file.
 
 ## Main libraries
 * [OpenCV](https://opencv.org/) 4.5.3;
